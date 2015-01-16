@@ -16,6 +16,7 @@
     "gulp-nodeunit": "0.0.5",
     "gulp-replace": "^0.5.0",
     "jshint-stylish": "^1.0.0",
+    "mozilla-download": "^0.4.6",
     "node-firefox-build-tools": "^0.1.0"
   },
   "scripts": {
